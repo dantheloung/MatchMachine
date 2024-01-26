@@ -1,0 +1,394 @@
+{
+  "teamName": "St Helens Town AFC",
+  "players": [
+    {
+      "firstName": "N",
+      "surName": "A",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "unknownPlayer.png"
+    },
+    {
+
+"firstName": "MAX",
+
+      "surName": "BUCKLEY-BENBOW",
+
+      "sponsor": "",
+
+      "sponsorImg": "",
+
+      "sponsTag": "",
+
+      "playerImg": "unknownPlayer.png"
+    },
+    {
+      "firstName": "BRADLEY",
+      "surName": "COY",
+      "sponsor": "",
+      "sponsorImg": "",
+      "sponsTag": "",
+      "playerImg": "unknownPlayer.png"
+    },
+    {
+      "firstName": "ANDY",
+      "surName": "COOK",
+      "sponsor": "The Function Room",
+      "sponsorImg": "",
+      "sponsTag": "@TheFunctionRoom",
+      "playerImg": "andyCook.png"
+    },
+    {
+      "firstName": "RYAN",
+      "surName": "COOK",
+      "sponsor": "Michael Featherstone",
+      "sponsorImg": "",
+      "playerImg": "ryanCook.png"
+    },
+    {
+      "firstName": "ETHAN",
+      "surName": "DANKU",
+      "sponsor": "Michael Allison",
+      "sponsorImg": "",
+      "playerImg": "ethanDanku.png"
+    },
+    {
+      "firstName": "LIAM",
+      "surName": "DIGGLE",
+      "sponsor": "KazBar",
+      "sponsorImg": "",
+      "playerImg": "liamDiggle.png"
+    },
+    {
+      "firstName": "LUKE",
+      "surName": "DIGGLE",
+      "sponsor": "Rainhill Football Academy",
+      "sponsorImg": "",
+      "sponsTag": "@RainhillAcademy",
+      "playerImg": "lukeDiggle.png"
+    },
+    {
+      "firstName": "KENNY",
+      "surName": "DIXON",
+      "sponsor": "Kilgallon Butchers",
+      "sponsorImg": "",
+      "playerImg": "kennyDixon.png"
+    },
+    {
+      "firstName": "MICHAEL",
+      "surName": "DUNN",
+      "sponsor": "Doctor Dyson",
+      "sponsorImg": "",
+      "playerImg": "mikeDunn.png"
+    },
+    {
+      "firstName": "CHRIS",
+      "surName": "FOSTER",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "chrisFoster.png"
+    },
+    {
+      "firstName": "PACEY",
+      "surName": "GARRETT",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "paceyGarrett.png"
+    },
+    {
+      "firstName": "CHRIS",
+      "surName": "GREENE",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "chrisGreene.png"
+    },
+    {
+      "firstName": "DANNY",
+      "surName": "GREENE",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "danGreene.png"
+    },
+    {
+      "firstName": "DYLAN",
+      "surName": "HART",
+      "sponsor": "HomeTyre",
+      "sponsorImg": "",
+      "playerImg": "dylanHart.png"
+    },
+    {
+      "firstName": "CALLUM",
+      "surName": "HITCHMOUGH",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "callumHitchmough.png"
+    },
+    {
+      "firstName": "DANNY",
+      "surName": "HUGHES",
+      "sponsor": "BM Electrical Services",
+      "sponsorImg": "",
+      "playerImg": "dannyHughes.png"
+    },
+    {
+      "firstName": "TOM",
+      "surName": "JACKSON",
+      "sponsor": "John Mckiernan",
+      "sponsorImg": "",
+      "playerImg": "tomJackson.png"
+    },
+    {
+      "firstName": "ALEX-BROOKLYN",
+      "surName": "KENAMUINJO",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "unknownPlayer.png"
+    },
+    {
+      "firstName": "DECLAN",
+      "surName": "LACEY",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "unknownPlayer.png"
+    },
+    {
+      "firstName": "MICHAEL",
+      "surName": "LACEY",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "lacey.png"
+    },
+    {
+      "firstName": "CIARAN",
+      "surName": "LEA",
+      "sponsor": "GMG Watches",
+      "sponsorImg": "",
+      "sponsTag": "@GmgWatches",
+      "playerImg": "ciaranLea.png"
+    },
+    {
+      "firstName": "ROBERT",
+      "surName": "MARSH",
+      "sponsor": "Compliance Education",
+      "sponsorImg": "",
+      "playerImg": "robMarsh.png"
+    },
+    {
+      "firstName": "JOSHUA",
+      "surName": "MAY",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "unknownPlayer.png"
+    },
+    {
+      "firstName": "TYLER",
+      "surName": "MURPHY",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "tylerMurphy.png"
+    },
+    {
+      "firstName": "MICHAEL",
+      "surName": "NEWTON",
+      "sponsor": "Revive Cleaning",
+      "sponsorImg": "",
+      "playerImg": "mikeNewton.png"
+    },
+    {
+      "firstName": "LEE",
+      "surName": "O'CONNOR",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "leeOConnor.png"
+    },
+    {
+      "firstName": "DARREN",
+      "surName": "PEERS",
+      "sponsor": "",
+      "sponsTag": "",
+      "sponsorImg": "",
+      "playerImg": "unknownPlayer.png"
+    },
+    {
+      "firstName": "ALEX",
+      "surName": "PETTERSEN",
+      "sponsor": "Whiston Carpets",
+      "sponsTag": "@whistoncarpets",
+      "sponsorImg": "",
+      "playerImg": "alexPettersen.png"
+    },
+    {
+      "firstName": "DANIEL",
+      "surName": "POPOOLA",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "unknownPlayer.png"
+    },
+    {
+      "firstName": "IAN",
+      "surName": "ROBY",
+      "sponsor": "Elite Group",
+      "sponsorImg": "",
+      "sponsTag": "@elitetelecom",
+      "playerImg": "ianRoby.png"
+    },
+    {
+      "firstName": "MATTHEW",
+      "surName": "ROCHFORD",
+      "sponsor": "The Delph Tavern",
+      "sponsorImg": "",
+      "sponsTag": "@TheDelphTavern",
+      "playerImg": "matthewRochford.png"
+    },
+    {
+      "firstName": "MICHAEL",
+      "surName": "ROWLINSON",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "smiler.png"
+    },
+    {
+      "firstName": "KYLE",
+      "surName": "RUGG",
+      "sponsor": "Ste Lingard",
+      "sponsorImg": "",
+      "playerImg": "kyleRugg.png"
+    },
+    {
+      "firstName": "CHARLIE",
+      "surName": "SIMPSON",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "unknownPlayer.png"
+    },
+    {
+      "firstName": "ALFIE",
+      "surName": "STOTT",
+      "sponsor": "Town in the Town",
+      "sponsorImg": "",
+      "sponsTag": "#TownInTheTown",
+      "playerImg": "alfieStott.png"
+    },
+    {
+      "firstName": "TOM",
+      "surName": "WHITE",
+      "sponsor": "The French Dresser",
+      "sponsorImg": "",
+      "playerImg": "tomWhite.png"
+    },
+    {
+      "firstName": "DALE",
+      "surName": "WHITEHEAD",
+      "sponsor": "The Clone Roses",
+      "sponsorImg": "",
+      "sponsTag": "@thecloneroses",
+      "playerImg": "daleWhitehead.png"
+    },
+    {
+      "firstName": "ELLIS",
+      "surName": "WHITFIELD",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "unknownPlayer.png"
+    },
+    {
+      "firstName": "SCOTT",
+      "surName": "WILLIAMS",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "scottWilliams.png"
+    }
+    ],
+  "opponents": [
+    {
+      "name": "Bickerstaffe",
+      "string": "BICKERSTAFFE",
+      "badge": "0badges/bickerstaffe.png"
+    },
+    {
+      "name": "Clay Brow",
+      "string": "CLAY BROW",
+      "badge": "0badges/claybrow.png"
+    },
+    {
+      "name": "Hartford",
+      "string": "HARTFORD FC",
+      "badge": "0badges/hartford.png"
+    },
+    {
+      "name": "Haydock",
+      "string": "HAYDOCK FC",
+      "badge": "0badges/haydock.png"
+    },
+    {
+      "name": "Lymm Rovers",
+      "string": "LYMM\nROVERS",
+      "badge": "0badges/lymm.png"
+    },
+    {
+      "name": "Maine Road Reserves",
+      "string": "MAINE ROAD\nRESERVES",
+      "badge": "0badges/maine_road.png"
+    },
+    {
+      "name": "Mersey Valley",
+      "string": "MERSEY\nVALLEY",
+      "badge": "0badges/mersey_valley.png"
+    },
+    {
+      "name": "Moore United",
+      "string": "MOORE\nUNITED",
+      "badge": "0badges/moore.png"
+    },
+    {
+      "name": "Newton-Le-Willows",
+      "string": "NEWTON-\nLE-WILLOWS",
+      "badge": "0badges/newton.png"
+    },
+    {
+      "name": "Parklands Reserves",
+      "string": "PARKLANDS\nRESERVES",
+      "badge": "0badges/parklands.png"
+    },
+    {
+      "name": "Pilks U23s",
+      "string": "PILKINGTON\nU23s",
+      "badge": "0badges/pilks.png"
+    },{
+      "name": "Sandbach Town",
+      "string": "SANDBACH\nTOWN RAMBLERS",
+      "badge": "0badges/sandbach.png"
+    },
+    {
+      "name": "Stretford Paddock",
+      "string": "STRETFORD\nPADDOCK",
+      "badge": "0badges/stretford.png"
+    }, {
+      "name": "West Dids & Chorlton",
+      "string": "WEST DIDSBURY\n& CHORTLON RES",
+      "badge": "0badges/wdac.png"
+    },
+    {
+      "name": "Wigan Town",
+      "string": "WIGAN\nTOWN",
+      "badge": "0badges/wigan.png"
+    },
+    {
+      "name": "Winsford Town",
+      "string": "WINSFORD\nTOWN FC",
+      "badge": "0badges/winsford.png"
+    },
+    {
+      "name": "Chester XI",
+      "string": "CHESTER XI",
+      "badge": "0badges/chester.png"
+    },
+    {
+      "name": "TSV Uhlbach",
+      "string": "TSV\nUHLBACH",
+      "badge": "0badges/tsv.png"
+    }
+
+  ]
+
+}

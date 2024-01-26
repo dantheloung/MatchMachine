@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="St Helens Town Match Machine" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>MATCH MACHINE</title>
+  </head>
+
+  <body>
+    <section class="container">
+      <header>
+        <img src="img/badge_small.png" alt="St Helens Town Badge">
+        <!-- <h1>MATCH MACHINE</h1> -->
+      </header>
+
+      <section class="action">
+        <input type="radio" id="kickOff" name="action"><label for="kickOff">Kick Off</label>
+        <input type="radio" id="halfTime" name="action"><label for="halfTime">Half Time</label>
+        <input type="radio" id="fullTime" name="action"><label for="fullTime">Full Time</label>
+        <input type="radio" id="goal" name="action" checked><label for="goal">Goal</label>
+        <input type="radio" id="redCard" name="action"><label for="redCard">Red
+          Card</label>
+        <input type="radio" id="ownGoal" name="action"><label for="ownGoal">Own
+          Goal</label>
+        <input type="radio" id="hattrick" name="action"><label for="hattrick">Hat-Trick</label>
+        <input type="radio" id="penScored" name="action"><label for="penScored">Penalty</label>
+      </section>
+
+      <section class="matchDetails">
+        <!-- <select name="homeOrAway"
+          id="homeOrAway">
+          <option value="h">HOME</option>
+          <option value="a">AWAY</option>
+        </select> -->
+
+        <input class="tgl tgl-skewed" id="cb3" type="checkbox"/>
+        <label class="tgl-btn" data-tg-off="HOME" data-tg-on="AWAY" for="cb3"></label>
+
+        <label class="opponents">v</label>
+        <select name="opponents" id="opponents"></select>
+        </section>
+
+    
+        <section class="score">
+        <input class="nums" type="text"
+          id="homeS" name="homeS" value="0">
+        <h3>-</h3>
+        <input type="text" class="nums" id="awayS" name="awayS" value="0">
+      </section>
+
+      <div class="dataRow">
+        <p>Player</p>
+          <select name="playerSelect" id="playerSelect"></select>
+          <input type="button" class="xButton" onclick="resetPLAYERBOX()">
+      </div>
+      <div class="dataRow">
+        <p>Small Text</p>
+        <input type="text" id="alt1" name="alt1" autocomplete="off">
+        <input type="button" class="xButton" onclick="clearMyText('alt1')">
+      </div>
+      <div class="dataRow">
+        <p>Big Text</p>
+        <input class="txts" type="text" id="alt2" name="alt2" autocomplete="off">
+        <input type="button" class="xButton" onclick="clearMyText('alt2')" />
+      </div>
+      <div class="dataRow">
+        <p>Minute</p>
+          <input class="minuteBox" type="text" id="mog" name="mog" autocomplete="off" />
+          <input type="button" class="xButton" onclick="clearMyText('mog')" />
+    </div>
+        
+
+      <section class="buttons">
+
+        <input type="button" class="butImage" value="MAKE IMAGE"
+          onclick="makeImage()" />
+
+        <input type="button" class="butSave" value="SAVE IMAGE"
+          onclick="saveImage()" />
+
+        <input type="button" class="butCopy" value="COPY TEXT"
+          onclick="copyText()" />
+
+      </section> <!-- buttons -->
+      
+    </section> <!-- container -->
+
+    <script src="sketch.js"></script>
+  </body>
+</html>
