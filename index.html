@@ -29,7 +29,7 @@
                 <input class="tgl tgl-skewed" id="cb3" type="checkbox">
                 <label class="tgl-btn" data-tg-off="HOME" data-tg-on="AWAY" for="cb3"></label>
                 <label class="v">v</label>
-                <select class="opponents" id="opponents"><option value="0">TBC</option><option value="0">West Disbury & Chorlton Reserves</option></select>
+                <select class="dropdown" id="opponents"><option value="0">TBC</option><option value="0">West Disbury & Chorlton Reserves</option></select>
             </div>
 
             <div class="scoreBoard">
@@ -41,7 +41,41 @@
                 <input class="scoresInput" id="aScore" type="text" value="0"/>
                 <button class="scoreButtons" onclick="scoreUp('away')">+</button>
             </div>
+
+            <div class="dataRow">
+                <p>Player</p>
+                  <select class="dropdown" name="playerSelect" id="playerSelect"><option value="0">N A</option><option value="1">MAX BUCKLEY-BENBOW</option><option value="2">BRADLEY COY</option><option value="3">ANDY COOK</option><option value="4">RYAN COOK</option><option value="5">ETHAN DANKU</option><option value="6">ELLIS DAVERIN</option><option value="7">LIAM DIGGLE</option><option value="8">LUKE DIGGLE</option><option value="9">KENNY DIXON</option><option value="10">MICHAEL DUNN</option><option value="11">CHRIS FOSTER</option><option value="12">PACEY GARRETT</option><option value="13">CHRIS GREENE</option><option value="14">DANNY GREENE</option><option value="15">DYLAN HART</option><option value="16">CALLUM HITCHMOUGH</option><option value="17">DANNY HUGHES</option><option value="18">TOM JACKSON</option><option value="19">ALEX-BROOKLYN KENAMUINJO</option><option value="20">DECLAN LACEY</option><option value="21">MICHAEL LACEY</option><option value="22">CIARAN LEA</option><option value="23">ROBERT MARSH</option><option value="24">JOSHUA MAY</option><option value="25">TYLER MURPHY</option><option value="26">MICHAEL NEWTON</option><option value="27">LEE O'CONNOR</option><option value="28">DARREN PEERS</option><option value="29">ALEX PETTERSEN</option><option value="30">DANIEL POPOOLA</option><option value="31">IAN ROBY</option><option value="32">MATTHEW ROCHFORD</option><option value="33">MICHAEL ROWLINSON</option><option value="34">KYLE RUGG</option><option value="35">CHARLIE SIMPSON</option><option value="36">ALFIE STOTT</option><option value="37">TOM WHITE</option><option value="38">DALE WHITEHEAD</option><option value="39">ELLIS WHITFIELD</option><option value="40">SCOTT WILLIAMS</option></select>
+                  <input type="button" class="xButton" onclick="resetPLAYERBOX()">
+              </div>
+
+              <div class="dataRow">
+                <p>Small Text</p>
+                <input class="dropdown" type="text" id="alt1" name="alt1" autocomplete="off">
+                <input type="button" class="xButton" onclick="clearMyText('alt1')">
+              </div>
+
+              <div class="dataRow">
+                <p>Big Text</p>
+                <input class="dropdown" class="txts" type="text" id="alt2" name="alt2" autocomplete="off">
+                <input type="button" class="xButton" onclick="clearMyText('alt2')">
+              </div>
+
+              <div class="dataRow">
+                <p>Minute</p>
+                  <input class="dropdown" class="minuteBox" type="text" id="mog" name="mog" autocomplete="off">
+                  <input type="button" class="xButton" onclick="clearMyText('mog')">
+            </div>
+
+            <section class="actionButtons">
+
+                <button class="butImage" value="MAKE IMAGE" onclick="makeImage()">MAKE</button>
+
+                <button type="button" class="butSave" value="SAVE IMAGE" onclick="saveImage()">SAVE</button>
         
+                <!-- <button type="button" class="butCopy" value="COPY TEXT" onclick="copyText()">COPY</button> -->
+
+        
+              </section>
         </div>
 
     </main>
