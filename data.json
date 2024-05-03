@@ -103,6 +103,13 @@
       "playerImg": "paceyGarrett.png"
     },
     {
+      "firstName": "MARC",
+      "surName": "GIBSON",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "unknownPlayer.png"
+    },
+    {
       "firstName": "IVAN",
       "surName": "GOMES",
       "sponsor": "",
@@ -283,12 +290,26 @@
       "playerImg": "unknownPlayer.png"
     },
     {
+      "firstName": "ALEX",
+      "surName": "SLEVIN",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "unknownPlayer.png"
+    },
+    {
       "firstName": "ALFIE",
       "surName": "STOTT",
       "sponsor": "Town in the Town",
       "sponsorImg": "",
       "sponsTag": "#TownInTheTown",
       "playerImg": "alfieStott.png"
+    },
+    {
+      "firstName": "ETHAN",
+      "surName": "WETTON",
+      "sponsor": "",
+      "sponsorImg": "",
+      "playerImg": "unknownPlayer.png"
     },
     {
       "firstName": "TOM",
